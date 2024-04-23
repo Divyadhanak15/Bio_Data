@@ -1,0 +1,50 @@
+[
+    {
+        "key":"Name",
+        "value": "Divya Dhanak V."                
+    },
+    {
+        "key":"Date Of Birth",
+        "value": "15/02/2002"                
+    },
+    {
+        "key":"Time Of Birth",
+        "value": "9:30 PM"                 
+    },
+    {
+        "key":"Rashi",
+        "value": "Meen"                
+    },
+    {
+        "key":"Religion",
+        "value": "Hindu"                
+    },
+    {
+        "key":"Caste",
+        "value": "Soni"                
+    },
+    {
+        "key":"Height",
+        "value": "5ft.3in"                 
+    },
+    {
+        "key":"Weight",
+        "value": "50kg"                
+    },
+    {
+        "key":"Blood Group",
+        "value": "B+"                
+    },
+    {
+        "key":"Education",
+        "value": "MCA"                
+    },
+    {
+        "key":"Occupation",
+        "value": "Tata communication ltd.,Mumbai"                
+    },
+    {
+        "key":"Income",
+        "value": "7.2 LPA"                
+    }    
+]
